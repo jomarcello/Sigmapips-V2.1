@@ -46,4 +46,8 @@ Thumbs.db
 
 # Environment variables
 .env
-.env.local 
+.env.local
+
+# Google Vision credentials
+credentials.json
+google_vision_credentials.json
